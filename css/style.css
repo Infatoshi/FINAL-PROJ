@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+canvas {
+  border: 1px solid grey;
+}
+
+h3 {
+  font-size: large;
+}
